@@ -1,5 +1,5 @@
 title: Test Feed
-#logo
+logo: docs/assets/mycat.PNG
 description: publication feed
 #show_downloads: true
 theme: jekyll-theme-minimal
